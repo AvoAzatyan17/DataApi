@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="888d1ffa-08b8-4d3b-ae22-0dafc78c07d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619808122573</updated>
       <workItem from="1619808129654" duration="1357000" />
-      <workItem from="1619809559854" duration="303000" />
+      <workItem from="1619809559854" duration="749000" />
     </task>
     <servers />
   </component>
@@ -73,6 +74,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1619810236309">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1619810236309" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1619809807319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1619809807319" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1619808410624">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
